@@ -1,0 +1,24 @@
+# Ramp Stablecoin Intelligence Hub
+
+An interactive SC interview demo showcasing how Ramp can extend its stablecoin infrastructure with AI-powered GL auto-coding for NetSuite enterprise customers.
+
+## Built with
+- React 18
+- Ramp design system (colors, typography, components)
+
+## Running locally
+```bash
+npm install
+npm start
+```
+
+## Deploy to Vercel
+1. Push this repo to GitHub
+2. Import at vercel.com
+3. Deploy — no config needed
+
+## Tabs
+1. **The Problem** — GlobalOps Inc. customer scenario with cross-border payment pain data
+2. **Ramp Today** — Current stablecoin product capabilities and gaps
+3. **AI GL Demo** — Interactive GL classification agent simulation
+4. **What I'd Build** — Three prioritized product proposals with infrastructure mapping
